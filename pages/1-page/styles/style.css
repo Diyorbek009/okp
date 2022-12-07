@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: npne;
+}
+nav{
+    height: 80px;
+    background-color: #999;
+}
+nav h4{
+    margin-right: 50px;
+}
+.asd {
+    margin-top: 30px;
+    color: #fff !important;
+}
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 18px;
+    width: 100%;
+    height: 350px;
+    background: rgb(0,0,36);
+    background: linear-gradient(90deg, rgb(0, 0, 161) 20%, rgba(0,232,255,1) 70%);
+}
+.header-top a{
+    color: #fff;
+    background-color: limegreen;
+    padding: 7px 10px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.texts{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.cards{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.img img{
+    width: 100%;
+}
+section h2{
+    margin-left: 150px;
+    margin-top: -50px;
+    font-size: 34px;
+}
+section h1{
+    margin-left: 47px;
+    margin-top: -13px;
+    font-size: 54px;
+    color: limegreen;
+}
+.icons{
+    color: #fff;
+}
+.icon{
+    width: 70px;
+    height: 40px;
+    border-radius: 50%;
+    border: #fff 2px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.footer{
+    margin-top: 50px;
+}    
+
+.icon i:hover{
+    cursor: pointer;
+}
+.forward{
+    width: 100%;
+    flex-wrap: wrap;
+}
+.img-1{
+    width: 100%;
+}
+.img-1 img{
+    width: 100%;
+}
+.icons-1{
+    width: 100%;
+}
+.icons-1 .ri-phone-line{
+    color: lime;
+}
+.icons-1 .ri-global-line{
+    color: blueviolet;
+}
+.icons-1 .ri-message-line{
+    color: blue;
+}
+.icons-1 i:hover{
+    cursor: pointer;
+}
+b{
+    font-weight: bolder;
+}
+.text-2{
+    text-align: center;
+}
